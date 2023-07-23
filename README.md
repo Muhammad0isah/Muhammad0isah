@@ -1,10 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Ibrahim Isah
 =============================================================================================================================================
 
-ML Engineer
------------
-
-A machine learning engineer enthusiastic about state-of-the-art technologies and the solving real-world challenges preceding financial experience, and building innovative products.
+I am a final-year Student at Bayero University, Kano, pursuing Bachelor of science in Software Engineering, who is passionate about Data Science :bar_chart:., open source :octocat:. I love to learn and contribute in any and every possible way.I want to be a machine learning engineer enthusiastic about state-of-the-art technologies and the solving real-world challenges preceding financial experience, and building innovative products.
 
 *   🌍  I'm based in Kana, Nigeria
 *   🖥️  See my portfolio at [here](http://muhammad0isah.github.io/portfolio )
