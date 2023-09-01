@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am a final-year Student at Bayero University, Kano, pursuing Bachelor of science in Software Engineering, who is passionate about Data Science :bar_chart:., open source :octocat:. I love to learn and contribute in any and every possible way.I want to be a machine learning engineer enthusiastic about state-of-the-art technologies and the solving real-world challenges preceding financial experience, and building innovative products.
 
-*   🌍  I'm based in Kana, Nigeria
+*   🌍  I'm based in Kano, Nigeria
 *   🖥️  See my portfolio at [here](http://muhammad0isah.github.io/portfolio )
 *   ✉️  You can contact me at [muhammadibrahimisah0@gmail.com](mailto:muhammadibrahimisah0@gmail.com)
 *   🚀  I'm currently working on[](http:// )
