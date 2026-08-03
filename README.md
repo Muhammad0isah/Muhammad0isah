@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Software Engineer, who is passionate about Machine Learning:bar_chart:., open source :octocat:. I love to learn and contribute in any and every possible way.I want to be a machine learning engineer enthusiastic about state-of-the-art technologies and the solving real-world challenges preceding financial experience, and building innovative products.
 
 *   🌍  I'm based in Kano, Nigeria
-*   🖥️  See my portfolio at [here](http://muhammad0isah.github.io/portfolio )
+*   🖥️  See my portfolio at [here](http://misah.app)
 *   ✉️  You can contact me at [muhammadibrahimisah0@gmail.com](mailto:muhammadibrahimisah0@gmail.com)
 *   🚀  I'm currently working on[](http:// )
 *   🧠  I'm learning ML & DL Specialization by Andrew Ng
